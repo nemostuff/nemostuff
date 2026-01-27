@@ -1,4 +1,4 @@
-<h2>Welcome to my repo</h2>
+<h2>Welcome to my github</h2>
 <!-- <img src="https://dribbble.com/shots/11179152-Work-From-Home/attachments/2783319?mode=media" width="100"/> -->
 <!--
 *sinnxc/sinnxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
