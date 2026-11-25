@@ -1,0 +1,193 @@
+{
+  "version": 1,
+  "login": "nemostuff",
+  "seed": "#C2185B",
+  "seedFromAvatar": false,
+  "scheme": "vibrant",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "stats",
+    "streak",
+    "wave",
+    "projects",
+    "buttons"
+  ],
+  "hidden": [
+    "buttons",
+    "projects",
+    "socials"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Nemo",
+    "subtitle": "I build small tools, learn how networks break, and make things nobody asked for.",
+    "typing": true,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Surabaya, ID"
+      },
+      {
+        "icon": "code",
+        "label": "Python · JavaScript · TypeScript"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "code",
+        "label": "Mostly Python, JavaScript, and TypeScript"
+      },
+      {
+        "icon": "lan",
+        "label": "Currently learning networking and backend"
+      },
+      {
+        "icon": "handyman",
+        "label": "A toy project with no roadmap, just curiosity"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Languages",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:c",
+            "label": "C"
+          },
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          }
+        ]
+      },
+      {
+        "title": "Networking",
+        "items": [
+          {
+            "icon": "brand:mikrotik",
+            "label": "MikroTik"
+          },
+          {
+            "icon": "lan",
+            "label": "TCP/IP"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:fedora",
+            "label": "Fedora"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:github",
+            "label": "GitHub"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "pbkk",
+      "infosec",
+      "praktikum-otomata-1-2",
+      "pbo"
+    ],
+    "overrides": {
+      "pbkk": {
+        "text": "SIBUMI, a WPF app for booking hiking permits, backed by SQL Server.",
+        "icon": "landscape"
+      },
+      "infosec": {
+        "text": "A DES implementation from scratch, plus an encrypted socket chat.",
+        "icon": "security"
+      },
+      "praktikum-otomata-1-2": {
+        "text": "Tokenizer and FSM exercises with a small Tkinter interface.",
+        "icon": "account_tree"
+      },
+      "pbo": {
+        "text": "Java OOP coursework: CRUD, simulations, and a couple of games.",
+        "icon": "code"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages I work in",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/nemostuff"
+      },
+      {
+        "icon": "brand:gmail",
+        "url": "mailto:ahsnkhlql@gmail.com"
+      },
+      {
+        "icon": "brand:instagram",
+        "url": "https://instagram.com/ahsinkhlql_"
+      }
+    ],
+    "variant": "chip",
+    "fill": "filled",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [],
+    "card": true
+  }
+}
